@@ -1,0 +1,10 @@
+C:\Users\diogo.coliveira3\source\repos\calcu_das_doras_diogo\obj\Debug\calcu_das_doras_diogo.csproj.AssemblyReference.cache
+C:\Users\diogo.coliveira3\source\repos\calcu_das_doras_diogo\obj\Debug\calcu_das_doras_diogo.Form1.resources
+C:\Users\diogo.coliveira3\source\repos\calcu_das_doras_diogo\obj\Debug\calcu_das_doras_diogo.Properties.Resources.resources
+C:\Users\diogo.coliveira3\source\repos\calcu_das_doras_diogo\obj\Debug\calcu_das_doras_diogo.csproj.GenerateResource.cache
+C:\Users\diogo.coliveira3\source\repos\calcu_das_doras_diogo\obj\Debug\calcu_das_doras_diogo.csproj.CoreCompileInputs.cache
+C:\Users\diogo.coliveira3\source\repos\calcu_das_doras_diogo\bin\Debug\calcu_das_doras_diogo.exe.config
+C:\Users\diogo.coliveira3\source\repos\calcu_das_doras_diogo\bin\Debug\calcu_das_doras_diogo.exe
+C:\Users\diogo.coliveira3\source\repos\calcu_das_doras_diogo\bin\Debug\calcu_das_doras_diogo.pdb
+C:\Users\diogo.coliveira3\source\repos\calcu_das_doras_diogo\obj\Debug\calcu_das_doras_diogo.exe
+C:\Users\diogo.coliveira3\source\repos\calcu_das_doras_diogo\obj\Debug\calcu_das_doras_diogo.pdb
